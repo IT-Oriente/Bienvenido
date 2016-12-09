@@ -1,6 +1,7 @@
 # Manifesto
 ### Se agradece encarecidamente leer las normas.
 Este manifiesto está dirigido a la comunidad tecnológica Oriental de Venezuela, mejor conocida, como IT Oriente.
+<<<<<<< HEAD
 
 IT Oriente es una comunidad de emprendedores Venezolanos en el área tecnológica sin ánimos de lucro, su objetivo es meramente educativo.
 
@@ -24,4 +25,5 @@ Entre los objetivos que destacan de esta comunidad tenemos:
 5. Queda terminantemente prohíbido todo contenido sexual, violento y/o atípicos.
 
 **Este manifiesto no es definitivo y aún está sujeto a cambios por los miembros de la comunidad de IT Oriente.**
+>>>>>>> efda184db6d97484fc93b5aac559a8ceabb315a0
 Fecha: 08/12/2016
